@@ -24,7 +24,7 @@ My name's James, and I'm a passionate mathematician trying to set foot in the so
 
 ## 🔬 Currently working on
 
-### 🌤 Weather Web Application
+<a href="https://github.com/JSulley/Weather-Web-App"><h3>🌤 Weather Web Application</h3></a>
 
 ## 😄 Fun Fact
 The following indefinite integral is a favorite of mine

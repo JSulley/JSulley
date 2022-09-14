@@ -27,5 +27,5 @@ My name's James, and I'm a passionate mathematician trying to set foot in the so
 <a href="https://github.com/JSulley/Weather-Web-App"><h3>🌤 Weather Web Application</h3></a>
 
 ## 😄 Fun Fact
-The following indefinite integral is a favorite of mine
-$$\int \arcsin(\cos(x)) dx$$
+The following definite integral is a favorite of mine
+$$\int_{0}^{\pi/2} \arcsin(\cos(x)) dx$$

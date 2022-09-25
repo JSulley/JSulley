@@ -22,10 +22,6 @@ My name's James, and I'm a passionate mathematician trying to set foot in the so
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 
-## 🔬 Currently working on
-
-<a href="https://github.com/JSulley/Weather-Web-App"><h3>🌤 Weather Web Application</h3></a>
-
 ## 😄 Fun Fact
 The following definite integral is a favorite of mine
 $$\int_{0}^{\pi/2} \arcsin(\cos(x)) dx$$

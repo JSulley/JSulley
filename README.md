@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-My name's James, and I'm a passionate mathematician trying to set foot in the software development realm. Currently, I'm pursuing Meta's Front-End Developer Professional Certificate on Coursera.
+My name's James, and I'm a passionate mathematician trying to set foot in the coding realm.
 
 ## 📈 Stats
 <div>

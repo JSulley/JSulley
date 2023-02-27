@@ -6,7 +6,7 @@
   </h1>
 </div>
 
-My name's James, and I'm a passionate mathematician trying to set foot in the coding realm.
+Just a passionate mathematician obsessed with learning about technology.
 
 ## 📈 Stats
 <div>

@@ -1,9 +1,6 @@
 Hi 👋 My name is James
 ======================
 
-Aspiring Software Developer
----------------------------
-
 Just a passionate mathematician obsessed with learning about technology.
 
 * 🌍  I'm based in Texas

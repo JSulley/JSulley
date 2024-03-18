@@ -3,9 +3,6 @@ Hi 👋 My name is James
 
 Just a passionate mathematician obsessed with learning about technology.
 
-* 🌍  I'm based in Texas
-* 🧠  I'm learning JavaScript (specifically NodeJS and Express)
-
 ### Skills
 
 
@@ -25,11 +22,3 @@ Just a passionate mathematician obsessed with learning about technology.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/JSulley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jsulley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JSulley"><img src="https://github-readme-stats.vercel.app/api?username=JSulley&show_icons=true&hide=stars,&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JSulley's GitHub stats" /></a>
-
-<a href="https://github.com/JSulley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSulley&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
